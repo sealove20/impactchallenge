@@ -1,6 +1,6 @@
 # Impacting Challenge
 
-# :construction_worker: Installation
+# :construction_worker: Server Installation
 
 **You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
