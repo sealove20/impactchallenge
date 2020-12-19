@@ -1,12 +1,18 @@
 # Impacting Challenge
 
-# :construction_worker: Server Installation
+## :construction_worker: Server Installation
 
 **You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
 ```
 git clone https://github.com/sealove20/impactingchallenge.git
 ```
+
+Go to the repository
+```
+$ cd mobile
+```
+
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you use a SSH key registered in your Github account, clone the project using this command:
 
@@ -39,3 +45,22 @@ After copying the examples, make sure to fill the variables with new values.
 Run the following command in order to start the application in a development environment:
 
 ```yarn dev```
+
+
+## Mobile Installation
+
+```bash
+# Clone this repository
+$ git clone https://github.com/sealove20/ecoleta
+
+# Go to the repository
+$ cd mobile
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+
